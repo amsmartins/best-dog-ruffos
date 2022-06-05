@@ -1,15 +1,20 @@
+<div align="center">
+  
 # 🚀 Ruffos, o melhor cão.
-<p align="center">Landing page de um cachorrinho chamado Ruffos.<p>
+# Landing page de um cachorrinho chamado Ruffos.  
+</div>
 
 
 ## 🗿 Motivação
-O objetivo desse projeto foi criar uma landing page no qual o personagem principal pudesse se mover ao click de um botão. Um personagem como uma cachorro foi uma ideia divertida.
+> O objetivo desse projeto foi criar uma landing page no qual o personagem principal pudesse se mover ao click de um botão. Um personagem como uma cachorro foi uma ideia divertida.
 
 
 ## 🛠 Tech Stack:
+```
 - HTML
 - CSS
 - JavaScript
+```
 
 
 ## 🎞 Demonstração em Video
@@ -25,7 +30,7 @@ Este projeto faz parte do meu portfólio pessoal, ficarei feliz caso forneça al
   Pull requests são bem-vindos. Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
 
 
-### 📑 LICENSE
+## 📑 LICENSE
 Este código foi criado para fins de estudo.
 
 <div align="center">
