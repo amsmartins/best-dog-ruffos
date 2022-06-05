@@ -1,6 +1,5 @@
 # 🚀 Ruffos, o melhor cão.
 - Landing page de um cachorrinho chamado Ruffos.
-- 🖱️ [Clique aqui](https://amsmartins.github.io/best-dog-ruffos/) para acessar o site.
 
 
 ## 🗿 Motivação
