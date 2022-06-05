@@ -1,5 +1,5 @@
 # 🚀 Ruffos, o melhor cão.
-- Landing page de um cachorrinho chamado Ruffos.
+<p align="center">Landing page de um cachorrinho chamado Ruffos.<p>
 
 
 ## 🗿 Motivação
